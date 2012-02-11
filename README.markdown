@@ -1,5 +1,9 @@
 # Benchmark #
 
+To see the equivilent benchmart for Yaf see:
+
+https://github.com/warmans/Yaf-PHP-Example
+
 ```
 Server Software:        Apache/2.2.21
 Server Hostname:        zend.dev
